@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding for now, more detailed explanation later on😓
 - 🌱 I’m currently learning HTML and C
 - 💞️ I’m looking to collaborate on any and all informative projects
-- 📫 How to reach me my linked in in my profile
+- 📫 How to reach me: my linkedin in my profile
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk, like cleopatra was closer to iphone than pyramids??
 

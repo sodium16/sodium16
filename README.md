@@ -65,19 +65,6 @@
 
 ---
 
-## 🐍 Snake Contribution
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sodium16/sodium16/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sodium16/sodium16/output/snake.svg">
-  <img alt="snake animation"
-       src="https://raw.githubusercontent.com/sodium16/sodium16/output/snake.svg">
-</picture>
-
----
-
 ## 🟡 Pacman Contribution Graph
 
 <picture>
@@ -88,9 +75,3 @@
   <img alt="pacman contribution graph"
        src="https://raw.githubusercontent.com/sodium16/sodium16/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-<p align="center">
-  Made with ❤️ by sodium16
-</p>

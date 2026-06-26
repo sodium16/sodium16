@@ -79,6 +79,5 @@
 ---
 ## LeetCode Submission Graph
 
-<img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=sodium_16" width="100%">
-
+![LeetCode Calendar](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
 ---

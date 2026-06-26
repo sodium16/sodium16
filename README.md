@@ -79,6 +79,6 @@
 ---
 ## LeetCode Submission Graph
 
-<img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username={your_username}" width="100%">
+<img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=sodium_16" width="100%">
 
 ---

@@ -78,6 +78,7 @@
 
 ---
 ## LeetCode Submission Graph
-
-![LeetCode Calendar](https://leetcard.jacoblin.cool/sodium_16?theme=dark&ext=heatmap)
+  <p align = "center">
+ <img src = "https://leetcard.jacoblin.cool/sodium_16?theme=forest&font=Manrope&ext=heatmap">
+  </p>
 ---

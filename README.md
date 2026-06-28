@@ -79,6 +79,8 @@
 ---
 ## LeetCode Submission Graph
   <p align = "center">
- <img src = "https://leetcard.jacoblin.cool/sodium_16?theme=forest&font=Manrope&ext=heatmap">
+    <a href = "https://leetcode.com/u/sodium_16/">
+      <img src = "https://leetcard.jacoblin.cool/sodium_16?theme=forest&font=Manrope&ext=heatmap">
+    </a>
   </p>
 ---

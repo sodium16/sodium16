@@ -2,16 +2,13 @@
   <img src="./typing.svg" alt="Typing animation" />
 </h1>
 
-## About Me
-
-> *"What?"*
 
 <br />
 
-<p align="center">
-  <b> Full Stack Developer</b><br/>
-  <i> MERN Stack</i><br/>
-</p>
+<div align="center">
+  <img src="https://asciify.its-apoorv.me/api/card?username=sodium16&bio=MERN+dev+who+doesn%27t+care+if+MERN+is+irrelevant%2C+i+just+code.&hide_location=true&card_font=%27Courier+New%27%2C+monospace&text_color=70a5fd&border_style=dashed" alt="asciify card" />
+</div>
+
 
 ---
 
